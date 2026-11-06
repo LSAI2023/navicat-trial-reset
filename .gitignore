@@ -19,3 +19,7 @@ $RECYCLE.BIN/
 # Local testing artifacts
 *.bak
 navicat_trial_backup_*/
+
+# Runtime deploy logs
+windows/deploy_log.txt
+windows/*/deploy_log.txt
